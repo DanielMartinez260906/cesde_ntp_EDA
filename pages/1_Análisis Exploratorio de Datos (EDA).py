@@ -5,7 +5,7 @@ import pandas as pd
 # Configuración de la página
 st.set_page_config(page_title="Actividad: Descubriendo los Datos", layout="wide")
 
-st.title("🧩 Actividad: ¿De qué se tratan estos datos?")
+st.title("🧩 Actividad: ¿de qué se tratan estos datos?")
 st.markdown("""
 ### Objetivo de la Actividad
 Tu misión es actuar como un **detective de datos**. A partir de las tablas y estadísticas que verás a continuación, debes deducir el contexto, el origen y el propósito de este conjunto de datos.
